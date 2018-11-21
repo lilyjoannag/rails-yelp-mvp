@@ -1,0 +1,25 @@
+// Place all the styles related to the restaurants controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+.top-navbar {
+  display: flex;
+  justify-content: space-between;
+  color: darkgrey;
+  margin-right: 10px;
+  margin-left: 10px;
+  margin-bottom: 40px;
+}
+
+.restaurant-box {
+  border-style: solid 1px black;
+}
+
+h1 {
+  margin-left: 50px;
+  text-align: center;
+  margin-bottom: 50px;
+}
+.restaurants-page {
+  margin-left: 50px;
+  text-align: center;
+}
